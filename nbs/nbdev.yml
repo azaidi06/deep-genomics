@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "deep-genomics"
+  site-url: "https://azaidi06.github.io/deep-genomics"
+  description: "Base functionality to do genomics with deep learning"
+  repo-branch: main
+  repo-url: "https://github.com/azaidi06/deep-genomics"
